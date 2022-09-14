@@ -1,0 +1,63 @@
+.navbar{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+    background-color: rgb(68, 64, 64);
+    
+}
+.navbar h2{
+    color: rgb(35, 34, 36);
+}
+.navbar .links{
+    margin-left: auto;
+}
+.navbar a{
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color: #fff;
+}
+.navbar a:hover{
+    color: rgb(226, 183, 43);
+}
+.Main_body{
+    border-radius: 20px;
+    width: 40%;
+    height: 75vh;
+    background: rgb(212, 209, 209);
+    margin: 40px 400px;
+}
+.Regist{
+    padding-top: 20px;
+    width: 100%;
+    height: 75vh;
+}
+.input1, .input2, .input3{
+    width: 60%;
+    height: 8vh;
+    margin: 15px 100px ;
+    border: none;
+    border-radius: 20px ;
+    outline: none;
+    font-size: 20px;
+}
+.form_head{
+    margin-top: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(10, 10, 10);
+}
+.tuma{
+    width: 60%;
+    height: 8vh;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(155, 26, 26);
+    border: none;
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
